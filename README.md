@@ -1,2 +1,2 @@
-# AWSIOT-DynamoDbAPI
-API for reading data from dynamo db
+# AWSIOT-Meetup
+Contains all code for intial temperature data with AWS IoT
